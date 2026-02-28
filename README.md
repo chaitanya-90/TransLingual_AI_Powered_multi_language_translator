@@ -1,4 +1,4 @@
-# TransLingua - AI-Powered Multi-Language Translator
+# TransLingual  AI Powered Multi Language Translator
 
 A sophisticated multi-language translation application powered by Google's Gemini Pro LLM and built with Streamlit.
 
